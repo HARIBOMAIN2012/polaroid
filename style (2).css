@@ -1,0 +1,71 @@
+.polaroid{
+  width:300px;
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color:white;
+  height:500px;
+  border:10px solid white;
+  padding:10px;
+}
+.polaroid img{
+  height:95%;
+  width:100%;
+}
+.polaroid:hover{
+transition:2s;
+transform:rotate(25deg) scale(1.3);
+}
+}
+.title{
+text-align:center;
+  font-size:16px;
+  margin-top:10px;
+  font-family:Arial;
+}
+.polaroid1{
+  width:300px;
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color:white;
+  height:500px;
+  border:10px solid white;
+  padding:10px;
+}
+.polaroid1 img{
+  height:95%;
+  width:100%;
+}
+.polaroid1:hover{
+transition:2s;
+transform:rotate(25deg) scale(1.3);
+}
+.polaroid2{
+  width:300px;
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color:white;
+  height:500px;
+  border:10px solid white;
+  padding:10px;
+}
+.polaroid2 img{
+  height:95%;
+  width:100%;
+}
+.polaroid2:hover{
+transition:2s;
+transform:rotate(25deg) scale(1.3);
+}
+.polaroid3{
+  width:300px;
+  box-shadow:0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color:white;
+  height:500px;
+  border:10px solid white;
+  padding:10px;
+}
+.polaroid3 img{
+  height:95%;
+  width:100%;
+}
+.polaroid3:hover{
+transition:2s;
+transform:rotate(25deg) scale(1.3);
+}
